@@ -37,6 +37,6 @@ The file older_adult_data.csv contains the following variables:
 * CAKe score: participants' scores on the CAKe (ranging from 6 to 24)
 * context source accuracy: participants' source memory accuracies on the context memory task (i.e., accuracy in remembering the previous background color of objects)
 * feature source accuracy: participants' source memory accuracies on the feature memory task (i.e., accuracy in remembering the previous internal color of objects)
-* context item accuracy: participants' recogntion memory accuracies on the context memory task (i.e., accuracy in regocnizing objects as "old" or "new")
-* feature item accuracy: participants' recogntion memory accuracies on the feature memory task (i.e., accuracy in regocnizing objects as "old" or "new")
+* context item accuracy: participants' recogntion memory accuracies on the context memory task (i.e., accuracy in recognizing objects as "old" or "new")
+* feature item accuracy: participants' recogntion memory accuracies on the feature memory task (i.e., accuracy in recognizing objects as "old" or "new")
 
